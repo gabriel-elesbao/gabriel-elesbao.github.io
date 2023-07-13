@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNWSCCR');</script>
+<!-- End Google Tag Manager -->
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+</style>
+<title>AUmigos</title>
+</head>
+<body style="background-color:powderblue;">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNWSCCR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+ 
+
+<h1 style="text-align:center; font-family:verdana; font-size:300%;">Abrigo de Animais</h1>
+
+ 
+
+<h2 style="text-align:center; font-family:verdana; font-size:100%;"><b>Ajude os 
+AUmigos</h2>
+
+ 
+
+<img src="abrigo-aumigos-precisa-de-ajuda.png" alt="Cães no abrigo" >
+
+ 
+
+<p style="text-align:center; font-family:verdana; font-size:100%;" >Abrigo de cães com mais de 50 anos atuando na coleta, tratamento e no direcionamento de cães de rua. Precisamos da sua ajuda na manutenção desse projeto, estamos precisando de ração, remédios e vacinas pros nossos AUmigos, qualquer quantia ajuda na manutenção dos nossos projetos. contamos com vocês!</p>
+<br>
+<p style="color:red;text-align:center;font-size:80%"><B> Venha nos visitar, preencha os seus dados e coloque a data de visita.</p>
+<br>
+<form style="text-align:center;">
+<label for="unome">Nome do usuário:</label><br>
+<input type="text" id="unome" name="unome"><br>
+<label for="email">E-mail:</label><br>
+<input type="text" id="email" name="email"><br>
+<label for="telefone">Telefone:</label><br>
+<input type="int" id="telefone" name="telefone"><br>
+<label for="dia">Dia Disponível:</label><br>
+<input type="int" id="dia" name="dia"><br><br>
+<input type="submit" id='enviar' value="Enviar">
+</form>
+
+</body>
+</html>
